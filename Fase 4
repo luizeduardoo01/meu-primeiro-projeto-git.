@@ -1,0 +1,13 @@
+Por que o commit é importante? 
+
+O commit funciona como um "ponto de salvamento" seguro e auditável do código
+permitindo reverter erros rapidamente, rastrear a origem de bugs, documentar o
+motivo das decisões técnicas e integrar o trabalho em equipe de forma organizada
+(além de disparar testes e implantações automáticas). 
+
+Qual a vantagem do GitHub? 
+
+O GitHub leva seus projetos Git para a nuvem como um backup seguro e centraliza o
+trabalho em equipe, oferecendo revisão de código (Pull Requests), automação de testes e
+entregas (GitHub Actions), gestão de tarefas e uma vitrine profissional para seu portfólio.
+
